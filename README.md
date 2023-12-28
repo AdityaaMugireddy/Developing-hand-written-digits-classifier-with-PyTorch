@@ -1,1 +1,2 @@
 # Developing-hand-written-digits-classifier-with-PyTorch
+Develop a prototype for an Optical Character Recognition (OCR) system focused on handwritten characters. Leveraging the MNIST database, design and train a neural network using python in Jupyter Notebook. This initiative provides a tangible demonstration of the OCR system's capabilities in recognizing and interpreting handwritten digits, setting the foundation for future advancements in this technology.
